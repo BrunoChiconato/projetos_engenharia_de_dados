@@ -1,0 +1,10 @@
+João, 28, São Paulo
+Maria, 34, Rio de Janeiro
+Carlos, 45, Belo Horizonte
+Ana, 23, Curitiba
+Fernanda, 30, Porto Alegre
+Paulo, 50, Salvador
+Mariana, 27, Brasília
+Roberto, 40, Fortaleza
+Luciana, 35, Manaus
+Ricardo, 29, Recife
