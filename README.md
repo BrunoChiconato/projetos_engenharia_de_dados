@@ -22,62 +22,27 @@ Bem-vindo(a) ao repositório de projetos em Python voltados para a área de Enge
 
 ## Projetos
 
-1. **Leitura e Escrita de Arquivos de Texto**  
-   Escreva um programa que leia dados de um arquivo de texto, processe-os e escreva os resultados em um novo arquivo.
-
-2. **Manipulação de Arquivos CSV**  
-   Implemente um script para ler dados de um arquivo CSV, parsear os dados e realizar operações básicas, como filtrar linhas com base em certos critérios.
-
-3. **Agregação de Dados**  
-   Dado um conjunto de dados representado como uma lista de dicionários, escreva funções para calcular agregações como soma, média, mínimo e máximo para campos específicos.
-
-4. **Análise de Logs**  
-   Crie um programa para analisar um arquivo de log de servidor, extrair informações relevantes (como timestamps, mensagens de erro) e gerar um relatório resumido.
-
-5. **Processo ETL Simples**  
-   Simule um processo ETL (Extração, Transformação, Carregamento) lendo dados de um arquivo de texto, transformando-os (por exemplo, alterando formatos de data, normalizando texto) e escrevendo-os em outro arquivo.
-
-6. **Validação e Limpeza de Dados**  
-   Crie funções para validar entradas de dados, lidar com dados ausentes ou malformados e limpar o conjunto de dados.
-
-7. **Argumentos de Linha de Comando**  
-   Desenvolva um script que aceite argumentos da linha de comando para especificar arquivos de entrada e saída ou parâmetros para processamento de dados.
-
-8. **Implementação de uma Fila**  
-   Use listas Python para implementar uma estrutura de dados de fila básica, simulando dados sendo ingeridos e processados.
-
-9. **Noções Básicas de Multithreading**  
-   Escreva um programa que use threading para realizar múltiplas tarefas de processamento de dados simultaneamente.
-
-10. **Tratamento de Erros e Logging**  
-    Aprimore seus scripts com tratamento de erros usando blocos `try-except` e implemente logging para rastrear eventos e erros.
-
-11. **Serialização de Dados**  
-    Serialize estruturas de dados em JSON e deserialize-as de volta, sem usar o módulo `json`.
-
-12. **Expressões Regulares**  
-    Utilize o módulo `re` para encontrar padrões em strings, como extrair endereços de e-mail ou números de telefone de um texto.
-
-13. **Compressão e Descompressão de Arquivos**  
-    Escreva scripts para comprimir e descomprimir arquivos usando módulos integrados como `gzip` ou `zipfile`.
-
-14. **Manipulação de Datas e Horários**  
-    Use o módulo `datetime` para manipular datas e horários, como calcular a diferença entre duas datas.
-
-15. **Simulação de Fluxos de Dados**  
-    Gere um fluxo de dados (por exemplo, números aleatórios ou timestamps) e escreva um script para processar os dados em tempo real.
-
-16. **Construção de uma Calculadora Simples**  
-    Crie uma calculadora de linha de comando que possa realizar operações aritméticas básicas e lidar graciosamente com entradas inválidas.
-
-17. **Ordenação e Busca de Dados**  
-    Implemente algoritmos de ordenação (como bubble sort ou quicksort) e algoritmos de busca (como busca binária) em conjuntos de dados.
-
-18. **Análise de Arquivos de Configuração**  
-    Parseie arquivos de configuração (como arquivos INI) e use as configurações em seu programa.
-
-19. **Noções Básicas de Redes com Sockets**  
-    Utilize o módulo `socket` para enviar e receber dados através de uma conexão de rede.
+| Nome do Projeto                               | Breve Descrição                                                                                                                                                                          |
+|-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Leitura e Escrita de Arquivos de Texto**    | Escreva um programa que leia dados de um arquivo de texto, processe-os e escreva os resultados em um novo arquivo.                                                                        |
+| **Manipulação de Arquivos CSV**               | Implemente um script para ler dados de um arquivo CSV, parsear os dados e realizar operações básicas, como filtrar linhas com base em certos critérios.                                   |
+| **Agregação de Dados**                        | Dado um conjunto de dados representado como uma lista de dicionários, escreva funções para calcular agregações como soma, média, mínimo e máximo para campos específicos.                 |
+| **Análise de Logs**                           | Crie um programa para analisar um arquivo de log de servidor, extrair informações relevantes (como timestamps, mensagens de erro) e gerar um relatório resumido.                          |
+| **Processo ETL Simples**                      | Simule um processo ETL (Extração, Transformação, Carregamento) lendo dados de um arquivo de texto, transformando-os (por exemplo, alterando formatos de data, normalizando texto) e escrevendo-os em outro arquivo. |
+| **Validação e Limpeza de Dados**              | Crie funções para validar entradas de dados, lidar com dados ausentes ou malformados e limpar o conjunto de dados.                                                                        |
+| **Argumentos de Linha de Comando**            | Desenvolva um script que aceite argumentos da linha de comando para especificar arquivos de entrada e saída ou parâmetros para processamento de dados.                                    |
+| **Implementação de uma Fila**                 | Use listas Python para implementar uma estrutura de dados de fila básica, simulando dados sendo ingeridos e processados.                                                                  |
+| **Noções Básicas de Multithreading**          | Escreva um programa que use threading para realizar múltiplas tarefas de processamento de dados simultaneamente.                                                                          |
+| **Tratamento de Erros e Logging**             | Aprimore seus scripts com tratamento de erros usando blocos `try-except` e implemente logging para rastrear eventos e erros.                                                              |
+| **Serialização de Dados**                     | Serialize estruturas de dados em JSON e deserialize-as de volta, sem usar o módulo `json`.                                                                                                |
+| **Expressões Regulares**                      | Utilize o módulo `re` para encontrar padrões em strings, como extrair endereços de e-mail ou números de telefone de um texto.                                                             |
+| **Compressão e Descompressão de Arquivos**    | Escreva scripts para comprimir e descomprimir arquivos usando módulos integrados como `gzip` ou `zipfile`.                                                                                |
+| **Manipulação de Datas e Horários**           | Use o módulo `datetime` para manipular datas e horários, como calcular a diferença entre duas datas.                                                                                      |
+| **Simulação de Fluxos de Dados**              | Gere um fluxo de dados (por exemplo, números aleatórios ou timestamps) e escreva um script para processar os dados em tempo real.                                                         |
+| **Construção de uma Calculadora Simples**     | Crie uma calculadora de linha de comando que possa realizar operações aritméticas básicas e lidar graciosamente com entradas inválidas.                                                   |
+| **Ordenação e Busca de Dados**                | Implemente algoritmos de ordenação (como bubble sort ou quicksort) e algoritmos de busca (como busca binária) em conjuntos de dados.                                                      |
+| **Análise de Arquivos de Configuração**       | Parseie arquivos de configuração (como arquivos INI) e use as configurações em seu programa.                                                                                              |
+| **Noções Básicas de Redes com Sockets**       | Utilize o módulo `socket` para enviar e receber dados através de uma conexão de rede.                                                                                                     |
 
 ## Configuração do Ambiente
 
