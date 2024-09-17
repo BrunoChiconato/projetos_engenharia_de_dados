@@ -1,6 +1,6 @@
 # Manipulação de Arquivos CSV
 
-Bem-vindo(a) ao projeto de **Manipulçaõ de Arquivos CSV** do conjunto de projetos em Python voltados para a Engenharia de Dados. Neste projeto, foi desenvolvido um programa que lê dados de um arquivo CSV, processa esses dados e realiza operações de filtragem com base em critérios específicos, salvando os resultados em um novo arquivo CSV. O objetivo é praticar manipulação de arquivos, processamento de dados e implementação de filtros eficientes em Python.
+Bem-vindo(a) ao projeto de **Manipulação de Arquivos CSV** do conjunto de projetos em Python voltados para a Engenharia de Dados. Neste projeto, foi desenvolvido um programa que lê dados de um arquivo CSV, processa esses dados e realiza operações de filtragem com base em critérios específicos, salvando os resultados em um novo arquivo CSV. O objetivo é praticar manipulação de arquivos, processamento de dados e implementação de filtros eficientes em Python.
 
 ## Sumário
 
